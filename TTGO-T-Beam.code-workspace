@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "tbeam_blink",
+			"path": "plat_test/project/tbeam_blink"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"forward_list": "cpp",
+			"xhash": "cpp",
+			"istream": "cpp",
+			"functional": "cpp"
+		}
+	}
+}
